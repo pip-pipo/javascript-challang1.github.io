@@ -1,0 +1,38 @@
+main{
+margin: 0;
+padding: 0;
+width:75%;
+text-align :center;
+
+}
+.flex-box-container-1{
+    border: 1px solid black;
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.flex-box-container-1 div{
+    padding: 10px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+}
+.container-1{
+    border: 1px solid black;
+}
+#calAge{
+    border: 1px solid rgb(12, 15, 12);
+    width: 80%;
+   text-align: center;
+}
+.box-container{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    border: 3px solid black:
+}
+.box-container div {
+   display: flex;   
+}
